@@ -4,3 +4,5 @@ cms/__pycache__/__init__.cpython-36.pyc
 cms/__pycache__/wsgi.cpython-36.pyc
 cms/__pycache__/routing.cpython-36.pyc
 cms/__pycache__/settings.cpython-36.pyc
+article/__pycache__/
+article/migrations/
